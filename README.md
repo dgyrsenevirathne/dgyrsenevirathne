@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgyrsenevirathne&label=Profile%20views&color=0e75b6&style=flat" alt="dgyrsenevirathne" /> </p>
 
-- 🔭 I’m currently working on **university undergraduate**
+- 🔭 I’m currently working on **Ceylon Electricity Board**
 
-- 🌱 I’m currently learning **Dart,java,Flutter**
+- 🌱 I’m currently learning **Dart,java,Flutter,C#,.NET,Python**
 
 - 📫 How to reach me **yasithsenevirathna01@gmail.com**
 
